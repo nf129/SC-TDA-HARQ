@@ -6,7 +6,7 @@ Note that this is a research project and by definition is unstable. Please write
 
 - Zhou Q, Li R, Zhao Z, et al. Semantic communication with adaptive universal transformer[J]. IEEE Wireless Communications Letters, 2021, 11(3): 453-457, accepted IEEE Wireless Communications Letters. https://arxiv.org/pdf/2203.06634
 
-- Zhou Q, Li R, Zhao Z, et al. Topology Data Analysis-based Error Detection for Semantic Image Transmission with Incremental Knowledge-based HARQ[J]. https://arxiv.org/abs/2403.11542
+- Ni F, Li R, Zhao Z, et al. Topology Data Analysis-based Error Detection for Semantic Image Transmission with Incremental Knowledge-based HARQ[J]. https://arxiv.org/abs/2403.11542
 
 ## Requirements
 The project is implemented under python 3.10 and PyTorch 2.2.
