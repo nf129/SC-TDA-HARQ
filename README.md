@@ -25,4 +25,4 @@ Download the pretrained model. Place them into the root directory.
 
 ## Thanks
 
-This repository is largely based on  [giotto-tda](https://github.com/giotto-ai/giotto-tda) and based on [WITT: A Wireless Image Transmission Transformer For Semantic Communication](https://github.com/KeYang8/WITT).
+This repository is largely based on  [giotto-tda](https://github.com/giotto-ai/giotto-tda) and [WITT: A Wireless Image Transmission Transformer For Semantic Communication](https://github.com/KeYang8/WITT).
