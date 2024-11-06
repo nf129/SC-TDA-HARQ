@@ -1,6 +1,12 @@
 # SC-TDA-HARQ
 This repository contains the implementation of the paper: [Topology Data Analysis-based Error Detection for Semantic Image Transmission with Incremental Knowledge-based HARQ](https://arxiv.org/pdf/2403.11542).
-Note that this is a research project and by definition is unstable. Please write to us if you find something not correct or strange. We are sharing the codes under the condition that reproducing full or part of codes must cite the paper.
+Note that this is a research project and by definition is unstable. Please write to us if you find something not correct or strange. We are sharing the codes under the condition that reproducing full or part of codes must cite the following papers.
+
+- Zhou Q, Li R, Zhao Z, et al. Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-based HARQ[J]. arXiv preprint arXiv:2203.06634, 2022, accepted by IEEE Open Journal of the Communications Society. https://arxiv.org/pdf/2108.09119
+
+- Zhou Q, Li R, Zhao Z, et al. Semantic communication with adaptive universal transformer[J]. IEEE Wireless Communications Letters, 2021, 11(3): 453-457, accepted IEEE Wireless Communications Letters. https://arxiv.org/pdf/2203.06634
+
+- Ni F, Li R, Zhao Z, et al. Topology Data Analysis-based Error Detection for Semantic Image Transmission with Incremental Knowledge-based HARQ[J]. https://arxiv.org/abs/2403.11542
 
 ## Requirements
 The project is implemented under python 3.10 and PyTorch 2.2.
